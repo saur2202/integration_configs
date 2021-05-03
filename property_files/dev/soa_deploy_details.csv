@@ -1,1 +1,6 @@
-INT_101,sca_demo.jar,sca_demo_cfgplan.xml,malaysia
+MODULE,RICEF,SAR_NAME,CONFIG_PLAN_NAME,PARTITION_NAME,SOA_SERVER
+finmy,INT_101,sca_demo.jar,sca_demo_cfgplan.xml,malaysia,soadevmy
+clmth,INT_201,sca_democlm.jar,sca_democlm_cfgplan.xml,thailand,soadevth
+finmy,INT_101,sca_demo.jar,sca_demo_cfgplan.xml,malaysia,soadevmy
+clmth,INT_201,sca_democlm.jar,sca_democlm_cfgplan.xml,thailand,soadevth
+scmth,INT_301,sca_democlm.jar,sca_democlm_cfgplan.xml,thailand,soadevth
