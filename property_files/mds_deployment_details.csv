@@ -1,14 +1,3 @@
 ArtifactPath,Environment
-apps\common\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\fin\my\dvm\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\common\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\fin\my\dvm\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\common\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\fin\my\dvm\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\common\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\fin\my\dvm\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\common\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\fin\my\dvm\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\common\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\fin\my\dvm\ERP_FIN_IB_ARTIFACTS.dvm,soadevmy
-apps\*,soadevmy
+apps\fin\common\dvm\*,soadevmy
+apps\fin\common\wsdl\CMN_BULKDATA_EXPORT_BPEL.wsdl,soadevmy
